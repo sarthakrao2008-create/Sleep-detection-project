@@ -30,7 +30,7 @@ The system monitors the driver's eyes through a webcam and gives an alert when s
 
 ## Installation
 
-## Install the required libraries:
+*Install the required libraries:*
 
 ## bash
 ```
