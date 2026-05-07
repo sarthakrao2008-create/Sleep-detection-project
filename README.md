@@ -49,4 +49,4 @@ Press Q to close the application.
  - Integration with real vehicle systems
 
 ## Authors:
-Sarthak Rao
+> Sarthak Rao
