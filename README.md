@@ -1,5 +1,5 @@
 # AI-Based Driver Drowsiness Detection System
-
+ 
 A simple real-time driver drowsiness detection project made using Python, OpenCV, and MediaPipe.  
 The system monitors the driver's eyes through a webcam and gives an alert when signs of sleep or fatigue are detected.
 
